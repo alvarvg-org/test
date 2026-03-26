@@ -6,7 +6,7 @@ on:
 
 jobs:
   test:
-    runs-on: arc-runner-set
+    runs-on: debezium-fedora-latest
     permissions:
       contents: read
     steps:

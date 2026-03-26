@@ -1,6 +1,3 @@
-from io import StringIO
-import sys
-
 from hello import hello
 
 

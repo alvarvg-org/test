@@ -6,7 +6,7 @@ on:
 
 jobs:
   test:
-    runs-on: debezium-fedora-latest
+    runs-on: debezium-ubuntu-latest
     permissions:
       contents: read
     steps:
